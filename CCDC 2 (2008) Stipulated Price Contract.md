@@ -1,96 +1,82 @@
-TABLE OF CONTENTS 
+Standard Construction Document  CCDC 2 – 2008
 
-The Canadian Construction Documents Committee (CCDC) is a national joint committee responsible for the development, production and review of standard Canadian construction contracts, forms and guides. Formed in 1974 the CCDC is made up of volunteer representatives from: 
-Public Sector Owners 
-Private Sector Owners 
-Canadian Bar Association (Ex-Officio) 
-* The Association of Canadian Engineering Companies 
-* The Canadian Construction Association 
-* Construction Specifications Canada 
-* The Royal Architectural Institute of Canada 
+#TABLE OF CONTENTS 
 
-* Committee policy and procedures are directed and approved by the four constituent  national organizations.
+The Canadian Construction Documents Committee (CCDC) is a national joint committee responsible for the development, production and review of standard Canadian construction contracts, forms and guides. Formed in 1974 the CCDC is made up of volunteer representatives from:
+* Public Sector Owners
+* Private Sector Owners
+* Canadian Bar Association (Ex-Officio)
+* The Association of Canadian Engineering Companies (1)
+* The Canadian Construction Association (1)
+* Construction Specifications Canada (1)
+* The Royal Architectural Institute of Canada (1)
+
+(1) Committee policy and procedures are directed and approved by the four constituent national organizations.
 
 CCDC 2 is the product of a consensus-building process aimed at balancing the interests of all parties on the construction project. It reflects recommended industry practices.  CCDC 2 can have important consequences.  The CCDC and its constituent member organizations do not accept any responsibility or liability for loss or damage which may be suffered as a result of the use or interpretation of CCDC 2.
+
+CCDC 2 – 2008 File 005213
+
+Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
 
 CCDC Copyright 2008
 
 Must not be copied in whole or in part without the written permission of the CCDC. 
-Standard Construction Document  CCDC 2 – 2008
 
-AGREEMENT BETWEEN OWNER AND CONTRACTOR For use when a stipulated price is the basis of payment. 
+AGREEMENT BETWEEN OWNER AND CONTRACTOR For use when a stipulated price is the basis of payment.
 
-This Agreement made on the 
-day of in the year . 
-by and between the parties 
-hereinafter called the "Owner" 
-and 
-hereinafter called the "Contractor" The Owner and the Contractor agree as follows: 
+This Agreement made on the %agreementday% day of %agreementmonth% in the year %agreementyear% by and between the parties %ownername% hereinafter called the "Owner" and %contractorname% hereinafter called the "Contractor" The Owner and the Contractor agree as follows:
 
-
-ARTICLE A-1 THE WORK 
+# ARTICLE A-1 THE WORK
 The Contractor shall:  
-1.1 	perform the Work required by the Contract Documents for 
-insert above the name of the Work 
-located at 
-insert above the Place of the Work 
-for which the Agreement has been signed by the parties, and for which 
-insert above the name of the Consultant is acting as and is hereinafter called the "Consultant" and 
-1.2 	do and fulfill everything indicated by the Contract Documents, and 
+1.1 perform the Work required by the Contract Documents for %nameofwork% located at %placeofwork% 
+for which the Agreement has been signed by the parties, and for which %consultantname% is acting as and is hereinafter called the "Consultant" and 
+1.2 do and fulfill everything indicated by the Contract Documents, and 
 1.3 commence the Work by the day of in the year and, subject to adjustment in Contract Time as provided for in the Contract Documents, attain Substantial Performance of the Work, by the 
-day of 
-in the year . 
-ARTICLE A-2 AGREEMENTS AND AMENDMENTS 
-2.1 	The Contract supersedes all prior negotiations, representations or agreements, either written or oral, relating in any manner to the Work, including the bidding documents that are not expressly listed in Article A-3 of the Agreement - CONTRACT DOCUMENTS. 
-2.2 	The Contract may be amended only as provided in the Contract Documents. 
-CCDC 2 – 2008 File 005213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-3.1 	The following are the Contract Documents referred to in Article A-1 of the Agreement - THE WORK: 
+%substantialperformanceday% day of %substantialperformancemonth% in the year %substantialperformanceyear%. 
+
+# ARTICLE A-2 AGREEMENTS AND AMENDMENTS 
+2.1 The Contract supersedes all prior negotiations, representations or agreements, either written or oral, relating in any manner to the Work, including the bidding documents that are not expressly listed in Article A-3 of the Agreement - CONTRACT DOCUMENTS.
+
+2.2	The Contract may be amended only as provided in the Contract Documents. 
+
+# ARTICLE A-3 CONTRACT DOCUMENTS
+
+3.1 The following are the Contract Documents referred to in Article A-1 of the Agreement - THE WORK: 
 - Agreement between Owner and Contractor 
 - Definitions 
 - The General Conditions of the Stipulated Price Contract 
+- %contractdocuments%
 
-* 
+(Insert here, attaching additional pages if required, a list identifying all other Contract Documents e.g. supplementary conditions; information documents; specifications, giving a list of contents with section numbers and titles, number of pages and date; material finishing schedules; drawings, giving drawing number, title, date, revision date or mark; addenda, giving title, number, date)
 
-* 	(Insert here, attaching additional pages if required, a list identifying all other Contract Documents e.g. supplementary conditions; information documents; specifications, giving a list of contents with section numbers and titles, number of pages and date; material finishing schedules; drawings, giving drawing number, title, date, revision date or mark; addenda, giving title, number, date) 
-CCDC 2 – 2008 File 005213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-ARTICLE A-4 CONTRACT PRICE 
+# ARTICLE A-4 CONTRACT PRICE 
 
-4.1 	The Contract Price, which excludes Value Added Taxes, is: 
- /100 dollars $ 
-4.2 	Value Added Taxes (of 
-%) payable by the Owner to the Contractor are: 
-/100 dollars $ 
-4.3 	Total amount payable by the Owner to the Contractor for the construction of the Work is: 
- /100 dollars $ 
-4.4 	These amounts shall be subject to adjustments as provided in the Contract Documents. 
-4.5 	All amounts are in Canadian funds. 
-ARTICLE A-5 PAYMENT 
-5.1 	Subject to the provisions of the Contract Documents, and in accordance with legislation and statutory regulations respecting 
-holdback 	percentages and, where such legislation or regulations do not exist or apply, subject to a holdback of percent ( 
-%), the Owner shall: 
-.1 	make progress payments to the Contractor on account of the Contract Price when due in the amount certified by the Consultant together with such Value Added Taxes as may be applicable to such payments, and 
-.2 	upon Substantial Performance of the Work, pay to the Contractor the unpaid balance of the holdback amount when due together with such Value Added Taxes as may be applicable to such payment, and 
-.3 	upon the issuance of the final certificate for payment, pay to the Contractor the unpaid balance of the Contract Price when due together with such Value Added Taxes as may be applicable to such payment. 
-5.2 	In the event of loss or damage occurring where payment becomes due under the property and boiler insurance policies, payments shall be made to the Contractor in accordance with the provisions of GC 11.1 – INSURANCE. 
-5.3 	Interest 
-.1 	Should either party fail to make payments as they become due under the terms of the Contract or in an award by arbitration or court, interest at the following rates on such unpaid amounts shall also become due and payable until payment: 
-(1) 
-2% per annum above the prime rate for the first 60 days. 
+4.1 The Contract Price, which excludes Value Added Taxes, is: %contractpriceexcludingvat%
+4.2 Value Added Taxes (of %VATpercent% %) payable by the Owner to the Contractor are: %vatamount%
+4.3 Total amount payable by the Owner to the Contractor for the construction of the Work is: %contractpriceincludingvat%
+4.4 These amounts shall be subject to adjustments as provided in the Contract Documents. 
+4.5 All amounts are in Canadian funds.
 
-(2) 
-4% per annum above the prime rate after the first 60 days. 
-Such interest shall be compounded on a monthly basis.  The prime rate shall be the rate of interest quoted by 
+# ARTICLE A-5 PAYMENT
 
+5.1 Subject to the provisions of the Contract Documents, and in accordance with legislation and statutory regulations respecting holdback percentages and, where such legislation or regulations do not exist or apply, subject to a holdback of percent ( %holdbackpercent% %), the Owner shall:
 
+	.1 	make progress payments to the Contractor on account of the Contract Price when due in the amount certified by the Consultant together with such Value Added Taxes as may be applicable to such payments, and 
+	.2 	upon Substantial Performance of the Work, pay to the Contractor the unpaid balance of the holdback amount when due together with such Value Added Taxes as may be applicable to such payment, and 
+	.3 	upon the issuance of the final certificate for payment, pay to the Contractor the unpaid balance of the Contract Price when due together with such Value Added Taxes as may be applicable to such payment.
+	
+5.2 In the event of loss or damage occurring where payment becomes due under the property and boiler insurance policies, payments shall be made to the Contractor in accordance with the provisions of GC 11.1 – INSURANCE.
 
-(Insert name of chartered lending institution whose prime rate is to be used) 
-for prime business loans as it may change from time to time.  
-.2 	Interest shall apply at the rate and in the manner prescribed by paragraph 5.3.1 of this Article on the settlement amount of any claim in dispute that is resolved either pursuant to Part 8 of the General Conditions – DISPUTE RESOLUTION or otherwise, from the date the amount would have been due and payable under the Contract, had it not been in dispute, until the date it is paid. 
-CCDC 2 – 2008 File 005213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-ARTICLE A-6 RECEIPT OF AND ADDRESSES FOR NOTICES IN WRITING 
+5.3 	Interest
+
+	.1 	Should either party fail to make payments as they become due under the terms of the Contract or in an award by arbitration or court, interest at the following rates on such unpaid amounts shall also become due and payable until payment: 
+		(1) 2% per annum above the prime rate for the first 60 days. 
+		(2) 4% per annum above the prime rate after the first 60 days. 
+	Such interest shall be compounded on a monthly basis. The prime rate shall be the rate of interest quoted by %charteredlendinginstitute% for prime business loans as it may change from time to time.  
+	.2 	Interest shall apply at the rate and in the manner prescribed by paragraph 5.3.1 of this Article on the settlement amount of any claim in dispute that is resolved either pursuant to Part 8 of the General Conditions – DISPUTE RESOLUTION or otherwise, from the date the amount would have been due and payable under the Contract, had it not been in dispute, until the date it is paid. 
+ 
+# ARTICLE A-6 RECEIPT OF AND ADDRESSES FOR NOTICES IN WRITING 
 
 6.1 	Notices in Writing will be addressed to the recipient at the address set out below. The delivery of a Notice in Writing will be by hand, by courier, by prepaid first class mail, or by facsimile or other form of electronic communication during the transmission of which no indication of failure of receipt is communicated to the sender. A Notice in Writing delivered by one party in accordance with this Contract will be deemed to have been received by the other party on the date of delivery if delivered by hand or courier, or if sent by mail it shall be deemed to have been received five calendar days after the date on which it was mailed, provided that if either such day is not a Working Day, then the Notice in Writing shall be deemed to have been received on the Working Day next following such day. A Notice in Writing sent by facsimile or other form of electronic communication shall be deemed to have been received on the date of its transmission provided that if such day is not a Working Day or if it is received after the end of normal business hours on the date of its transmission at the place of receipt, then it shall be deemed to have been received at the opening of business at the place of receipt on the first Working Day next following the transmission thereof.  An address for a party may be changed by Notice in Writing to the other party setting out the new address in accordance with this Article.   
 
@@ -107,19 +93,22 @@ facsimile number 	email address
 Consultant 
 name of Consultant* 
 address 
-facsimile number 	email address 
-* If it is intended that the notice must be received by a specific individual, that individual’s name shall be indicated.  
-ARTICLE A-7 LANGUAGE OF THE CONTRACT 
-7.1 	When the Contract Documents are prepared in both the English and French languages, it is agreed that in the event of any 
-apparent discrepancy between the English and French versions, the English / French # language shall prevail. # Complete this statement by striking out inapplicable term. 
-7.2 	This Agreement is drawn in English at the request of the parties hereto.  La présente convention est rédigée en anglais à la demande des parties. 
-CCDC 2 – 2008 File 005213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-ARTICLE A-8 SUCCESSION 
-8.1 	The Contract shall enure to the benefit of and be binding upon the parties hereto, their respective heirs, legal representatives, successors, and assigns. 
-In witness whereof the parties hereto have executed this Agreement by the hands of their duly authorized representatives. 
-SIGNED AND DELIVERED in the presence of: 
+facsimile number 	email address
 
+* If it is intended that the notice must be received by a specific individual, that individual’s name shall be indicated.
+
+# ARTICLE A-7 LANGUAGE OF THE CONTRACT
+
+7.1 When the Contract Documents are prepared in both the English and French languages, it is agreed that in the event of any 
+apparent discrepancy between the English and French versions, the English / French # language shall prevail. # Complete this statement by striking out inapplicable term. 
+7.2 This Agreement is drawn in English at the request of the parties hereto.  La présente convention est rédigée en anglais à la demande des parties. 
+
+# ARTICLE A-8 SUCCESSION
+
+8.1 	The Contract shall enure to the benefit of and be binding upon the parties hereto, their respective heirs, legal representatives, successors, and assigns. 
+In witness whereof the parties hereto have executed this Agreement by the hands of their duly authorized representatives.
+
+SIGNED AND DELIVERED in the presence of: 
 
 WITNESS	      OWNER 
 name of owner 
@@ -135,135 +124,194 @@ name of person signing 	name and title of person signing
 signature 	signature 
 name of person signing 	name and title of person signing 
 N.B. 	Where legal jurisdiction, local practice or Owner or Contractor requirement calls for: 
-(a) 
-proof of authority to execute this document, attach such proof of authority in the form of a certified copy of a resolution naming the representative(s) authorized to sign the Agreement for and on behalf of the corporation or partnership; or 
+	(a) proof of authority to execute this document, attach such proof of authority in the form of a certified copy of a resolution naming the representative(s) authorized to sign the Agreement for and on behalf of the corporation or partnership; or 
+	(b) the affixing of a corporate seal, this Agreement should be properly sealed. 
 
-(b) 
-the affixing of a corporate seal, this Agreement should be properly sealed. 
+# DEFINITIONS 
 
-
-CCDC 2 – 2008 File 005213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-Standard Construction Document  CCDC 2 – 2008 
-
-DEFINITIONS 
 The following Definitions shall apply to all Contract Documents. 
-1. 	Change Directive A Change Directive is a written instruction prepared by the Consultant and signed by the Owner directing the Contractor to proceed with a change in the Work within the general scope of the Contract Documents prior to the Owner and the Contractor agreeing upon adjustments in the Contract Price and the Contract Time. 
-2. 	Change Order A Change Order is a written amendment to the Contract prepared by the Consultant and signed by the Owner and the Contractor stating their agreement upon: 
+
+## 1. Change Directive
+A Change Directive is a written instruction prepared by the Consultant and signed by the Owner directing the Contractor to proceed with a change in the Work within the general scope of the Contract Documents prior to the Owner and the Contractor agreeing upon adjustments in the Contract Price and the Contract Time. 
+
+## 2. Change Order
+A Change Order is a written amendment to the Contract prepared by the Consultant and signed by the Owner and the Contractor stating their agreement upon: 
 -a change in the Work; 
--
-the method of adjustment or the amount of the adjustment in the Contract Price, if any; and 
+- the method of adjustment or the amount of the adjustment in the Contract Price, if any; and 
+- the extent of the adjustment in the Contract Time, if any. 
 
--
-the extent of the adjustment in the Contract Time, if any. 
+## 3. Construction Equipment
+Construction Equipment means all machinery and equipment, either operated or not operated, that is required for preparing, fabricating, conveying, erecting, or otherwise performing the Work but is not incorporated into the Work.
 
+## 4. Consultant
+The Consultant is the person or entity engaged by the Owner and identified as such in the Agreement. The Consultant is the Architect, the Engineer or entity licensed to practise in the province or territory of the Place of the Work. The term Consultant means the Consultant or the Consultant's authorized representative.
 
-3. 	Construction Equipment Construction Equipment means all machinery and equipment, either operated or not operated, that is required for preparing, fabricating, conveying, erecting, or otherwise performing the Work but is not incorporated into the Work. 
-4. 	Consultant The Consultant is the person or entity engaged by the Owner and identified as such in the Agreement.  The Consultant is the Architect, the Engineer or entity licensed to practise in the province or territory of the Place of the Work. The term Consultant means the Consultant or the Consultant's authorized representative.  
-5. 	Contract The Contract is the undertaking by the parties to perform their respective duties, responsibilities and obligations as prescribed in the Contract Documents and represents the entire agreement between the parties. 
-6. 	Contract Documents The Contract Documents consist of those documents listed in Article A-3 of the Agreement - CONTRACT DOCUMENTS and amendments agreed upon between the parties. 
-7. 	Contract Price 
-The Contract Price is the amount stipulated in Article A-4 of the Agreement - CONTRACT PRICE.  
-8. 	Contract Time The Contract Time is the time stipulated in paragraph 1.3 of Article A-1 of the Agreement -THE WORK from commencement of the Work to Substantial Performance of the Work. 
-9. 	Contractor The Contractor is the person or entity identified as such in the Agreement.  The term Contractor means the Contractor or the Contractor's authorized representative as designated to the Owner in writing. 
-10. 	Drawings The Drawings are the graphic and pictorial portions of the Contract Documents, wherever located and whenever issued, showing the design, location and dimensions of the Work, generally including plans, elevations, sections, details, and diagrams.  
-11. 	Notice in Writing A Notice in Writing, where identified in the Contract Documents, is a written communication between the parties or between them and the Consultant that is transmitted in accordance with the provisions of Article A-6 of the Agreement – RECEIPT OF AND ADDRESSES FOR NOTICES IN WRITING. 
-12. 	Owner The Owner is the person or entity identified as such in the Agreement.  The term Owner means the Owner or the Owner's authorized agent or representative as designated to the Contractor in writing, but does not include the Consultant. 
-13. 	Place of the Work 
+## 5. Contract
+The Contract is the undertaking by the parties to perform their respective duties, responsibilities and obligations as prescribed in the Contract Documents and represents the entire agreement between the parties.
+
+## 6. Contract Documents
+The Contract Documents consist of those documents listed in Article A-3 of the Agreement - CONTRACT DOCUMENTS and amendments agreed upon between the parties.
+
+## 7. Contract Price
+The Contract Price is the amount stipulated in Article A-4 of the Agreement - CONTRACT PRICE.
+
+## 8. Contract Time
+The Contract Time is the time stipulated in paragraph 1.3 of Article A-1 of the Agreement -THE WORK from commencement of the Work to Substantial Performance of the Work.
+
+## 9. Contractor
+The Contractor is the person or entity identified as such in the Agreement.  The term Contractor means the Contractor or the Contractor's authorized representative as designated to the Owner in writing.
+
+## 10. Drawings
+The Drawings are the graphic and pictorial portions of the Contract Documents, wherever located and whenever issued, showing the design, location and dimensions of the Work, generally including plans, elevations, sections, details, and diagrams.
+
+## 11. Notice in Writing
+A Notice in Writing, where identified in the Contract Documents, is a written communication between the parties or between them and the Consultant that is transmitted in accordance with the provisions of Article A-6 of the Agreement – RECEIPT OF AND ADDRESSES FOR NOTICES IN WRITING.
+
+## 12. Owner
+The Owner is the person or entity identified as such in the Agreement.  The term Owner means the Owner or the Owner's authorized agent or representative as designated to the Contractor in writing, but does not include the Consultant.
+
+## 13. Place of the Work
 The Place of the Work is the designated site or location of the Work identified in the Contract Documents. 
-14. 	Product Product or Products means material, machinery, equipment, and fixtures forming the Work, but does not include Construction Equipment. 
-CCDC 2 - 2008  File 007100 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-15. 	Project 
+
+## 14. Product
+Product or Products means material, machinery, equipment, and fixtures forming the Work, but does not include Construction Equipment. 
+
+## 15. Project
 The Project means the total construction contemplated of which the Work may be the whole or a part.  
-16. 	Provide 
-Provide means to supply and install. 
-17. Shop Drawings Shop Drawings are drawings, diagrams, illustrations, schedules, performance charts, brochures, Product data, and other data which the Contractor provides to illustrate details of portions of the Work. 
-18. Specifications The Specifications are that portion of the Contract Documents, wherever located and whenever issued, consisting of the written requirements and standards for Products, systems, workmanship, quality, and the services necessary for the performance of the Work. 
-19. 	Subcontractor A Subcontractor is a person or entity having a direct contract with the Contractor to perform a part or parts of the Work at the Place of the Work. 
-20. 	Substantial Performance of the Work Substantial Performance of the Work is as defined in the lien legislation applicable to the Place of the Work. If such legislation is not in force or does not contain such definition, or if the Work is governed by the Civil Code of Quebec, Substantial Performance of the Work shall have been reached when the Work is ready for use or is being used for the purpose intended and is so certified by the Consultant. 
-21. 	Supplemental Instruction A Supplemental Instruction is an instruction, not involving adjustment in the Contract Price or Contract Time, in the form of Specifications, Drawings, schedules, samples, models or written instructions, consistent with the intent of the Contract Documents.  It is to be issued by the Consultant to supplement the Contract Documents as required for the performance of the Work. 
-22. 	Supplier 
-A Supplier is a person or entity having a direct contract with the Contractor to supply Products. 
-23. 	Temporary Work Temporary Work means temporary supports, structures, facilities, services, and other temporary items, excluding Construction Equipment, required for the execution of the Work but not incorporated into the Work. 
-24. 	Value Added Taxes Value Added Taxes means such sum as shall be levied upon the Contract Price by the Federal or any Provincial or Territorial Government and is computed as a percentage of the Contract Price and includes the Goods and Services Tax, the Quebec Sales Tax, the Harmonized Sales Tax, and any similar tax, the collection and payment of which have been imposed on the Contractor by the tax legislation.  
 
-25. 	Work 
+## 16. Provide
+Provide means to supply and install.
+
+## 17. Shop Drawings
+Shop Drawings are drawings, diagrams, illustrations, schedules, performance charts, brochures, Product data, and other data which the Contractor provides to illustrate details of portions of the Work.
+
+## 18. Specifications
+The Specifications are that portion of the Contract Documents, wherever located and whenever issued, consisting of the written requirements and standards for Products, systems, workmanship, quality, and the services necessary for the performance of the Work.
+
+## 19. Subcontractor
+A Subcontractor is a person or entity having a direct contract with the Contractor to perform a part or parts of the Work at the Place of the Work.
+
+## 20. Substantial Performance of the Work
+Substantial Performance of the Work is as defined in the lien legislation applicable to the Place of the Work. If such legislation is not in force or does not contain such definition, or if the Work is governed by the Civil Code of Quebec, Substantial Performance of the Work shall have been reached when the Work is ready for use or is being used for the purpose intended and is so certified by the Consultant.
+
+## 21. Supplemental Instruction
+A Supplemental Instruction is an instruction, not involving adjustment in the Contract Price or Contract Time, in the form of Specifications, Drawings, schedules, samples, models or written instructions, consistent with the intent of the Contract Documents.  It is to be issued by the Consultant to supplement the Contract Documents as required for the performance of the Work.
+
+## 22. Supplier
+A Supplier is a person or entity having a direct contract with the Contractor to supply Products.
+
+## 23. Temporary Work
+Temporary Work means temporary supports, structures, facilities, services, and other temporary items, excluding Construction Equipment, required for the execution of the Work but not incorporated into the Work.
+
+## 24. Value Added Taxes
+Value Added Taxes means such sum as shall be levied upon the Contract Price by the Federal or any Provincial or Territorial Government and is computed as a percentage of the Contract Price and includes the Goods and Services Tax, the Quebec Sales Tax, the Harmonized Sales Tax, and any similar tax, the collection and payment of which have been imposed on the Contractor by the tax legislation.  
+
+## 25. Work 
 The Work means the total construction and related services required by the Contract Documents. 
-26. 	Working Day Working Day means a day other than a Saturday, Sunday, statutory holiday, or statutory vacation day that is observed by the construction industry in the area of the Place of the Work. 
-CCDC 2 - 2008  File 007100 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-Standard Construction Document  CCDC 2 – 2008 
-GENERAL CONDITIONS OF THE STIPULATED PRICE CONTRACT 
-PART 1 GENERAL PROVISIONS 
 
+## 26. Working Day
+Working Day means a day other than a Saturday, Sunday, statutory holiday, or statutory vacation day that is observed by the construction industry in the area of the Place of the Work. 
 
-GC 1.1 	CONTRACT DOCUMENTS 
-1.1.1 	The intent of the Contract Documents is to include the labour, Products and services necessary for the performance of the Work by the Contractor in accordance with these documents.  It is not intended, however, that the Contractor shall supply products or perform work not consistent with, not covered by, or not properly inferable from the Contract Documents. 
-1.1.2 	Nothing contained in the Contract Documents shall create any contractual relationship between: .1 the Owner and a Subcontractor, a Supplier, or their agent, employee, or other person performing any portion of the Work. 
-.2 	the Consultant and the Contractor, a Subcontractor, a Supplier, or their agent, employee, or other person performing any portion of the Work. 
-1.1.3 	The Contract Documents are complementary, and what is required by any one shall be as binding as if required by all. 
-1.1.4 	Words and abbreviations which have well known technical or trade meanings are used in the Contract Documents in accordance with such recognized meanings. 
-1.1.5 	References in the Contract Documents to the singular shall be considered to include the plural as the context requires. 
-1.1.6 	Neither the organization of the Specifications nor the arrangement of Drawings shall control the Contractor in dividing the work among Subcontractors and Suppliers. 
-1.1.7 	If there is a conflict within the Contract Documents: 
-.1 	the order of priority of documents, from highest to lowest, shall be 
-- 	the Agreement between the Owner and the Contractor, 
-- 	the Definitions, 
-- 	Supplementary Conditions, 
-- 	the General Conditions, 
-- 	Division 1 of the Specifications, 
-- 	technical Specifications, 
-- 	material and finishing schedules, 
-- 	the Drawings. 
-.2 Drawings of larger scale shall govern over those of smaller scale of the same date. 
-.3 dimensions shown on Drawings shall govern over dimensions scaled from Drawings. 
-.4 later dated documents shall govern over earlier documents of the same type. 
+# GENERAL CONDITIONS OF THE STIPULATED PRICE CONTRACT 
+## PART 1 GENERAL PROVISIONS 
+### GC 1.1 CONTRACT DOCUMENTS
+1.1.1 The intent of the Contract Documents is to include the labour, Products and services necessary for the performance of the Work by the Contractor in accordance with these documents.  It is not intended, however, that the Contractor shall supply products or perform work not consistent with, not covered by, or not properly inferable from the Contract Documents.
 
-1.1.8 	The Owner shall provide the Contractor, without charge, sufficient copies of the Contract Documents to perform the Work. 
-1.1.9 	Specifications, Drawings, models, and copies thereof furnished by the Consultant are and shall remain the Consultant's property, with the exception of the signed Contract sets, which shall belong to each party to the Contract. All Specifications, Drawings and models furnished by the Consultant are to be used only with respect to the Work and are not to be used on other work.  These Specifications, Drawings and models are not to be copied or altered in any manner without the written authorization of the Consultant. 
-1.1.10 	Models furnished by the Contractor at the Owner's expense are the property of the Owner. 
-GC 1.2 	LAW OF THE CONTRACT 
+1.1.2 Nothing contained in the Contract Documents shall create any contractual relationship between:
+	.1 the Owner and a Subcontractor, a Supplier, or their agent, employee, or other person performing any portion of the Work. 
+	.2 	the Consultant and the Contractor, a Subcontractor, a Supplier, or their agent, employee, or other person performing any portion of the Work.
+	
+1.1.3 The Contract Documents are complementary, and what is required by any one shall be as binding as if required by all.
+
+1.1.4 Words and abbreviations which have well known technical or trade meanings are used in the Contract Documents in accordance with such recognized meanings.
+
+1.1.5 References in the Contract Documents to the singular shall be considered to include the plural as the context requires.
+
+1.1.6 Neither the organization of the Specifications nor the arrangement of Drawings shall control the Contractor in dividing the work among Subcontractors and Suppliers.
+
+1.1.7 If there is a conflict within the Contract Documents:
+	.1 	the order of priority of documents, from highest to lowest, shall be 
+		- 	the Agreement between the Owner and the Contractor, 
+		- 	the Definitions, 
+		- 	Supplementary Conditions, 
+		- 	the General Conditions, 
+		- 	Division 1 of the Specifications, 
+		- 	technical Specifications, 
+		- 	material and finishing schedules, 
+		- 	the Drawings. 
+	.2 Drawings of larger scale shall govern over those of smaller scale of the same date. 
+	.3 dimensions shown on Drawings shall govern over dimensions scaled from Drawings. 
+	.4 later dated documents shall govern over earlier documents of the same type. 
+
+1.1.8 	The Owner shall provide the Contractor, without charge, sufficient copies of the Contract Documents to perform the Work.
+
+1.1.9 	Specifications, Drawings, models, and copies thereof furnished by the Consultant are and shall remain the Consultant's property, with the exception of the signed Contract sets, which shall belong to each party to the Contract. All Specifications, Drawings and models furnished by the Consultant are to be used only with respect to the Work and are not to be used on other work.  These Specifications, Drawings and models are not to be copied or altered in any manner without the written authorization of the Consultant.
+
+1.1.10 	Models furnished by the Contractor at the Owner's expense are the property of the Owner.
+
+### GC 1.2 	LAW OF THE CONTRACT 
 1.2.1 	The law of the Place of the Work shall govern the interpretation of the Contract. 
-GC 1.3 	RIGHTS AND REMEDIES 
-1.3.1 	Except as expressly provided in the Contract Documents, the duties and obligations imposed by the Contract Documents and the rights and remedies available thereunder shall be in addition to and not a limitation of any duties, obligations, rights, and remedies otherwise imposed or available by law. 
-1.3.2 	No action or failure to act by the Owner, Consultant or Contractor shall constitute a waiver of any right or duty afforded any of them under the Contract, nor shall any such action or failure to act constitute an approval of or acquiescence in any breach thereunder, except as may be specifically agreed in writing. 
-CCDC 2 – 2008 File 007213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-GC 1.4 	ASSIGNMENT 
 
-1.4.1 	Neither party to the Contract shall assign the Contract or a portion thereof without the written consent of the other, which consent shall not be unreasonably withheld. 
-PART 2 ADMINISTRATION OF THE CONTRACT 
-GC 2.1 	AUTHORITY OF THE CONSULTANT 
-2.1.1 	The Consultant will have authority to act on behalf of the Owner only to the extent provided in the Contract Documents, unless otherwise modified by written agreement as provided in paragraph 2.1.2. 
-2.1.2 	The duties, responsibilities and limitations of authority of the Consultant as set forth in the Contract Documents shall be modified or extended only with the written consent of the Owner, the Contractor and the Consultant. 
-2.1.3 	If the Consultant's employment is terminated, the Owner shall immediately appoint or reappoint a Consultant against whom the Contractor makes no reasonable objection and whose status under the Contract Documents shall be that of the former Consultant. 
-GC 2.2 	ROLE OF THE CONSULTANT 
-2.2.1 	The Consultant will provide administration of the Contract as described in the Contract Documents. 
-2.2.2 	The Consultant will visit the Place of the Work at intervals appropriate to the progress of construction to become familiar with the progress and quality of the work and to determine if the Work is proceeding in general conformity with the Contract Documents. 
-2.2.3 	If the Owner and the Consultant agree, the Consultant will provide at the Place of the Work, one or more project representatives to assist in carrying out the Consultant's responsibilities.  The duties, responsibilities and limitations of authority of such project representatives shall be as set forth in writing to the Contractor. 
-2.2.4 	The Consultant will promptly inform the Owner of the date of receipt of the Contractor’s applications for payment as provided in paragraph 5.3.1.1 of GC 5.3 – PROGRESS PAYMENT. 
-2.2.5 	Based on the Consultant's observations and evaluation of the Contractor's applications for payment, the Consultant will determine the amounts owing to the Contractor under the Contract and will issue certificates for payment as provided in Article A-5 of the Agreement - PAYMENT, GC 5.3 - PROGRESS PAYMENT and GC 5.7 - FINAL PAYMENT. 
-2.2.6 	The Consultant will not be responsible for and will not have control, charge or supervision of construction means, methods, techniques, sequences, or procedures, or for safety precautions and programs required in connection with the Work in accordance with the applicable construction safety legislation, other regulations or general construction practice.  The Consultant will not be responsible for the Contractor's failure to carry out the Work in accordance with the Contract Documents. The Consultant will not have control over, charge of or be responsible for the acts or omissions of the Contractor, Subcontractors, Suppliers, or their agents, employees, or any other persons performing portions of the Work. 
-2.2.7 	Except with respect to GC 5.1 - FINANCING INFORMATION REQUIRED OF THE OWNER, the Consultant will be, in the first instance, the interpreter of the requirements of the Contract Documents. 
-2.2.8 	Matters in question relating to the performance of the Work or the interpretation of the Contract Documents shall be initially referred in writing to the Consultant by the party raising the question for interpretations and findings and copied to the other party. 
-2.2.9 	Interpretations and findings of the Consultant shall be consistent with the intent of the Contract Documents. In making such interpretations and findings the Consultant will not show partiality to either the Owner or the Contractor. 
-2.2.10 	The Consultant’s interpretations and findings will be given in writing to the parties within a reasonable time.  
-2.2.11 	With respect to claims for a change in Contract Price, the Consultant will make findings as set out in GC 6.6 – CLAIMS FOR A CHANGE IN CONTRACT PRICE. 
-2.2.12 	The Consultant will have authority to reject work which in the Consultant's opinion does not conform to the requirements of the Contract Documents. Whenever the Consultant considers it necessary or advisable, the Consultant will have authority to require inspection or testing of work, whether or not such work is fabricated, installed or completed.  However, neither the authority of the Consultant to act nor any decision either to exercise or not to exercise such authority shall give rise to any duty or responsibility of the Consultant to the Contractor, Subcontractors, Suppliers, or their agents, employees, or other persons performing any of the Work. 
-CCDC 2 – 2008 File 007213 
-Note: 	This contract is protected by copyright.  Use of a CCDC 2 document not containing a CCDC 2 copyright seal constitutes an infringement of copyright. Only sign this contract if the document cover page bears a CCDC 2 copyright seal to demonstrate that it is intended by the parties to be an accurate and unamended version of CCDC 2 – 2008 except to the extent that any alterations, additions or modifications are set forth in supplementary conditions. 
-2.2.13 During the progress of the Work the Consultant will furnish Supplemental Instructions to the Contractor with reasonable 
+### GC 1.3 	RIGHTS AND REMEDIES 
+1.3.1 Except as expressly provided in the Contract Documents, the duties and obligations imposed by the Contract Documents and the rights and remedies available thereunder shall be in addition to and not a limitation of any duties, obligations, rights, and remedies otherwise imposed or available by law.
 
-promptness or in accordance with a schedule for such instructions agreed to by the Consultant and the Contractor. 
-2.2.14 	The Consultant will review and take appropriate action upon Shop Drawings, samples and other Contractor’s submittals, in accordance with the Contract Documents. 
-2.2.15 	The Consultant will prepare Change Orders and Change Directives as provided in GC 6.2 - CHANGE ORDER and GC 6.3 
--CHANGE DIRECTIVE. 
-2.2.16 	The Consultant will conduct reviews of the Work to determine the date of Substantial Performance of the Work as provided in GC 5.4 - SUBSTANTIAL PERFORMANCE OF THE WORK. 
-2.2.17 	All certificates issued by the Consultant will be to the best of the Consultant's knowledge, information and belief.  By issuing any certificate, the Consultant does not guarantee the Work is correct or complete. 
-2.2.18 	The Consultant will receive and review written warranties and related documents required by the Contract and provided by the Contractor and will forward such warranties and documents to the Owner for the Owner's acceptance. 
-GC 2.3 	REVIEW AND INSPECTION OF THE WORK 
-2.3.1 	The Owner and the Consultant shall have access to the Work at all times.  The Contractor shall provide sufficient, safe and proper facilities at all times for the review of the Work by the Consultant and the inspection of the Work by authorized agencies. If parts of the Work are in preparation at locations other than the Place of the Work, the Owner and the Consultant shall be given access to such work whenever it is in progress. 
+1.3.2 No action or failure to act by the Owner, Consultant or Contractor shall constitute a waiver of any right or duty afforded any of them under the Contract, nor shall any such action or failure to act constitute an approval of or acquiescence in any breach thereunder, except as may be specifically agreed in writing.
+
+### GC 1.4 ASSIGNMENT
+
+1.4.1 	Neither party to the Contract shall assign the Contract or a portion thereof without the written consent of the other, which consent shall not be unreasonably withheld.
+
+## PART 2 ADMINISTRATION OF THE CONTRACT
+
+### GC 2.1 	AUTHORITY OF THE CONSULTANT
+
+2.1.1 The Consultant will have authority to act on behalf of the Owner only to the extent provided in the Contract Documents, unless otherwise modified by written agreement as provided in paragraph 2.1.2. 
+
+2.1.2 The duties, responsibilities and limitations of authority of the Consultant as set forth in the Contract Documents shall be modified or extended only with the written consent of the Owner, the Contractor and the Consultant.
+
+2.1.3 If the Consultant's employment is terminated, the Owner shall immediately appoint or reappoint a Consultant against whom the Contractor makes no reasonable objection and whose status under the Contract Documents shall be that of the former Consultant. 
+
+### GC 2.2 ROLE OF THE CONSULTANT
+
+2.2.1 The Consultant will provide administration of the Contract as described in the Contract Documents. 
+
+2.2.2 The Consultant will visit the Place of the Work at intervals appropriate to the progress of construction to become familiar with the progress and quality of the work and to determine if the Work is proceeding in general conformity with the Contract Documents.
+
+2.2.3 If the Owner and the Consultant agree, the Consultant will provide at the Place of the Work, one or more project representatives to assist in carrying out the Consultant's responsibilities.  The duties, responsibilities and limitations of authority of such project representatives shall be as set forth in writing to the Contractor.
+
+2.2.4 The Consultant will promptly inform the Owner of the date of receipt of the Contractor’s applications for payment as provided in paragraph 5.3.1.1 of GC 5.3 – PROGRESS PAYMENT.
+
+2.2.5 Based on the Consultant's observations and evaluation of the Contractor's applications for payment, the Consultant will determine the amounts owing to the Contractor under the Contract and will issue certificates for payment as provided in Article A-5 of the Agreement - PAYMENT, GC 5.3 - PROGRESS PAYMENT and GC 5.7 - FINAL PAYMENT.
+
+2.2.6 The Consultant will not be responsible for and will not have control, charge or supervision of construction means, methods, techniques, sequences, or procedures, or for safety precautions and programs required in connection with the Work in accordance with the applicable construction safety legislation, other regulations or general construction practice.  The Consultant will not be responsible for the Contractor's failure to carry out the Work in accordance with the Contract Documents. The Consultant will not have control over, charge of or be responsible for the acts or omissions of the Contractor, Subcontractors, Suppliers, or their agents, employees, or any other persons performing portions of the Work.
+
+2.2.7 Except with respect to GC 5.1 - FINANCING INFORMATION REQUIRED OF THE OWNER, the Consultant will be, in the first instance, the interpreter of the requirements of the Contract Documents.
+
+2.2.8 Matters in question relating to the performance of the Work or the interpretation of the Contract Documents shall be initially referred in writing to the Consultant by the party raising the question for interpretations and findings and copied to the other party.
+
+2.2.9 Interpretations and findings of the Consultant shall be consistent with the intent of the Contract Documents. In making such interpretations and findings the Consultant will not show partiality to either the Owner or the Contractor.
+
+2.2.10 The Consultant’s interpretations and findings will be given in writing to the parties within a reasonable time.
+
+2.2.11 With respect to claims for a change in Contract Price, the Consultant will make findings as set out in GC 6.6 – CLAIMS FOR A CHANGE IN CONTRACT PRICE.
+
+2.2.12 The Consultant will have authority to reject work which in the Consultant's opinion does not conform to the requirements of the Contract Documents. Whenever the Consultant considers it necessary or advisable, the Consultant will have authority to require inspection or testing of work, whether or not such work is fabricated, installed or completed.  However, neither the authority of the Consultant to act nor any decision either to exercise or not to exercise such authority shall give rise to any duty or responsibility of the Consultant to the Contractor, Subcontractors, Suppliers, or their agents, employees, or other persons performing any of the Work.
+
+2.2.13 During the progress of the Work the Consultant will furnish Supplemental Instructions to the Contractor with reasonable promptness or in accordance with a schedule for such instructions agreed to by the Consultant and the Contractor.
+
+2.2.14 The Consultant will review and take appropriate action upon Shop Drawings, samples and other Contractor’s submittals, in accordance with the Contract Documents.
+
+2.2.15 The Consultant will prepare Change Orders and Change Directives as provided in GC 6.2 - CHANGE ORDER and GC 6.3 - CHANGE DIRECTIVE.
+
+2.2.16 The Consultant will conduct reviews of the Work to determine the date of Substantial Performance of the Work as provided in GC 5.4 - SUBSTANTIAL PERFORMANCE OF THE WORK.
+
+2.2.17 All certificates issued by the Consultant will be to the best of the Consultant's knowledge, information and belief.  By issuing any certificate, the Consultant does not guarantee the Work is correct or complete.
+
+2.2.18 	The Consultant will receive and review written warranties and related documents required by the Contract and provided by the Contractor and will forward such warranties and documents to the Owner for the Owner's acceptance.
+
+### GC 2.3 REVIEW AND INSPECTION OF THE WORK
+
+2.3.1 The Owner and the Consultant shall have access to the Work at all times.  The Contractor shall provide sufficient, safe and proper facilities at all times for the review of the Work by the Consultant and the inspection of the Work by authorized agencies. If parts of the Work are in preparation at locations other than the Place of the Work, the Owner and the Consultant shall be given access to such work whenever it is in progress. 
 2.3.2 	If work is designated for tests, inspections or approvals in the Contract Documents, or by the Consultant's instructions, or by the laws or ordinances of the Place of the Work, the Contractor shall give the Consultant reasonable notification of when the work will be ready for review and inspection.  The Contractor shall arrange for and shall give the Consultant reasonable notification of the date and time of inspections by other authorities. 
 2.3.3 	The Contractor shall furnish promptly to the Consultant two copies of certificates and inspection reports relating to the Work. 
 2.3.4 	If the Contractor covers, or permits to be covered, work that has been designated for special tests, inspections or approvals before such special tests, inspections or approvals are made, given or completed, the Contractor shall, if so directed, uncover such work, have the inspections or tests satisfactorily completed, and make good covering work at the Contractor's expense. 
